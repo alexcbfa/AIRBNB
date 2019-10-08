@@ -6,7 +6,8 @@ Libraries used: pandas, matplotlib.pyplot, collections, descartes, geopandas, sh
 
 Motivation: Use a real example to show how can you use Geopandas to visualize the effect of place and location on a given feature.
 
-Files in the repository:  
+Files in the repository: 
+
                           ./charts/maps/price : Airbnb average price colormaps of seattles in 2016 that will be used to make a GIF.
 
                           ./charts/maps/vacancy : Airbnb vacancy rate colormaps of seattles in 2016 that will be used to make a GIF.
